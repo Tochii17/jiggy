@@ -1,0 +1,39 @@
+
+img{
+    margin: auto;
+    display: block;
+    border-style: dotted;
+    border-color: darkgreen;
+}
+
+.text{
+    text-align: center;
+    border-style: double;
+    color: black;
+    background-color: burlywood;
+}
+
+ul{margin: auto;
+    text-align-last: left;
+}
+
+* {
+  text-align: center;
+  margin: auto;
+  padding: 15px;
+}
+p {
+  font-size: 25px;
+}
+a {
+  color: #a66cff;
+} 
+a:Visited {
+  color: blue;
+}
+a:hover {
+  color: #3ec70b;
+}
+a:active {
+  color: coral;
+}
